@@ -62,6 +62,7 @@ local function updateTransforms(world)
 			)
 		end
 	end
+	
 end
 
 return {
